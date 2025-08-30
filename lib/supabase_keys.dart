@@ -1,0 +1,2 @@
+const String kSupabaseUrl = 'https://gnislxfkrowprzsicnlo.supabase.co';
+const String kSupabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImduaXNseGZrcm93cHJ6c2ljbmxvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ0OTc2MjcsImV4cCI6MjA3MDA3MzYyN30.zbn22JF4v1m54iV4ZKGGVBal1LIWYN9qW12jnVZfpfY';
